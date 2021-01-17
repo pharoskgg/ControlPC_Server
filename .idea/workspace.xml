@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc81b2e4-0173-4d03-bfba-1c542ea65043" name="Default" comment="" />
+    <list default="true" id="cc81b2e4-0173-4d03-bfba-1c542ea65043" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +24,8 @@
       <file leaf-file-name="FileDownLoadSocketThread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/socketservice/FileDownLoadSocketThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -39,7 +42,7 @@
       <file leaf-file-name="Clk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/operation/Clk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="435">
               <caret line="29" column="114" selection-start-line="29" selection-start-column="114" selection-end-line="29" selection-end-column="114" />
             </state>
           </provider>
@@ -76,25 +79,25 @@
         <entry file="file://$PROJECT_DIR$/src/operation/Ulf.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="24" column="106" lean-forward="true" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
+              <caret line="24" column="106" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="23" column="83" lean-forward="true" selection-start-line="23" selection-start-column="83" selection-end-line="23" selection-end-column="83" />
+            <state relative-caret-position="91">
+              <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -162,8 +165,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="57" />
+    <option name="y" value="53" />
     <option name="width" value="1750" />
     <option name="height" value="1025" />
   </component>
@@ -173,8 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,12 +185,19 @@
             </path>
             <path>
               <item name="part-13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part-13" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="part-13" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -201,7 +209,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/logs/debug.log" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/GIT/ControlPC_Server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -429,6 +437,7 @@
       <workItem from="1610889695169" duration="662000" />
       <workItem from="1610895067826" duration="497000" />
       <workItem from="1610895636305" duration="2299000" />
+      <workItem from="1610900071224" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="upload to github">
       <created>1610895806340</created>
@@ -480,10 +489,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71051000" />
+    <option name="totallyTimeSpent" value="71427000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1400" height="820" extended-state="0" />
+    <frame x="98" y="62" width="1400" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -493,12 +503,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.50951684" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.25183016" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.45726496" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26825634" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2719821" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -779,23 +789,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/3bdec1b0a345686470fec3ebeb55bbf7d81fc891.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/socketservice/FileDownLoadSocketThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/operation/Cps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/operation/Clk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="435">
           <caret line="29" column="114" selection-start-line="29" selection-start-column="114" selection-end-line="29" selection-end-column="114" />
         </state>
       </provider>
@@ -822,9 +818,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/IMG_20140729_203702.jpg" />
-    <entry file="file://$PROJECT_DIR$/upload/mall_blur_newest.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/mall_blur_newest.jpg" />
     <entry file="file://$PROJECT_DIR$/src/config/ResultStatus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -849,21 +843,35 @@
     <entry file="file://$PROJECT_DIR$/src/operation/Ulf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="24" column="106" lean-forward="true" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="24" column="106" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="23" column="83" lean-forward="true" selection-start-line="23" selection-start-column="83" selection-end-line="23" selection-end-column="83" />
+        <state relative-caret-position="91">
+          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operation/Cps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/socketservice/FileDownLoadSocketThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
