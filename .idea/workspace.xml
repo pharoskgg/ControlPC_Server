@@ -87,8 +87,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="76">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -165,8 +165,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="27" />
+    <option name="x" value="87" />
+    <option name="y" value="30" />
     <option name="width" value="1750" />
     <option name="height" value="1025" />
   </component>
@@ -187,10 +187,6 @@
               <item name="part-13" type="b2602c69:ProjectViewProjectNode" />
               <item name="part-13" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="part-13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -437,7 +433,7 @@
       <workItem from="1610889695169" duration="662000" />
       <workItem from="1610895067826" duration="497000" />
       <workItem from="1610895636305" duration="2299000" />
-      <workItem from="1610900071224" duration="376000" />
+      <workItem from="1610900071224" duration="2211000" />
     </task>
     <task id="LOCAL-00001" summary="upload to github">
       <created>1610895806340</created>
@@ -453,7 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610896265862</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload to github">
+      <created>1610900470670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610900470670</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upload to github">
+      <created>1610900653693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610900653693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -489,10 +499,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71427000" />
+    <option name="totallyTimeSpent" value="73262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="98" y="62" width="1400" height="820" extended-state="0" />
+    <frame x="70" y="24" width="1400" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -503,9 +513,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.25183016" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.08199122" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.45726496" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329429" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2719821" />
@@ -870,8 +880,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="76">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>

@@ -5,7 +5,9 @@
 
 # Log file
 *.log
-!/lib/*.jar
+/test
+/out
+!/lib
 
 # BlueJ files
 *.ctxt
