@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc81b2e4-0173-4d03-bfba-1c542ea65043" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,8 +86,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -182,11 +181,6 @@
             <path>
               <item name="part-13" type="b2602c69:ProjectViewProjectNode" />
               <item name="part-13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="part-13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="part-13" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -433,7 +427,7 @@
       <workItem from="1610889695169" duration="662000" />
       <workItem from="1610895067826" duration="497000" />
       <workItem from="1610895636305" duration="2299000" />
-      <workItem from="1610900071224" duration="2211000" />
+      <workItem from="1610900071224" duration="2385000" />
     </task>
     <task id="LOCAL-00001" summary="upload to github">
       <created>1610895806340</created>
@@ -499,7 +493,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73262000" />
+    <option name="totallyTimeSpent" value="73436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="24" width="1400" height="820" extended-state="0" />
@@ -880,8 +874,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>

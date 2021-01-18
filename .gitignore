@@ -7,7 +7,6 @@
 *.log
 /test
 /out
-!/lib
 
 # BlueJ files
 *.ctxt
@@ -16,7 +15,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
